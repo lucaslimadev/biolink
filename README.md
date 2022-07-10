@@ -2,11 +2,9 @@
 
 ## 🚀 Biolink
 
-<img alt="biolink" src=".github/preview.png">
-
----
 Página centralizadora de links, semelhante as utilizadas pelos usuários na bio do Instagram.
 
+<img alt="biolink" src=".github/preview.png">
 
 ## 🛠 Tecnologias
 
